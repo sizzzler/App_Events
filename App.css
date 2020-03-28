@@ -1,0 +1,52 @@
+.dot {
+  height: 100px;
+  width: 100px;
+  background-color: powderblue;
+  border-radius: 50%;
+  display: inline-block;
+}
+.droptarget {
+  float: left;
+  margin: 15px;
+  padding: 10px;
+  border: 1px solid #aaaaaa;
+}
+
+#dragtarget {
+  height: 100px;
+  width: 100px;
+  background-color: powderblue;
+  border-radius: 50%;
+  display: inline-block;
+
+}
+
+.mousecords{
+   text-align: center;
+}
+
+
+h2{
+  text-align:right;
+  font-size: 3em;
+}
+
+h1{
+  font-size:3em;
+  font-color:
+}
+.eyel,.eyer{
+            background-color: #000000;
+            height: 15px;
+            width: 15px;
+            border-radius: 50%;
+            position: relative;
+        }
+        .eyel{
+            top:30px;
+            left:250px;
+        }
+        .eyer{
+            top:10px;
+            left:280px;
+        }
